@@ -19,7 +19,7 @@ If you want to change the Dataset, please change the file address in line 3 and 
 
 `label` is the data class label.
 
-## Result
+### Result
 The experimental results are evaluated in terms of  benchmark metrics including clustering accuracy (Acc), 
 
 adjusted mutual information (AMI) and adjusted rand index (ARI).They are saved in `result`.
