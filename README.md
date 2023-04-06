@@ -23,13 +23,9 @@ If you want to change the Dataset, please change the file address in line 3 and 
 
 If you have reproduced our algorithm in your paper, please cite the following paper:
 
-[1] Xie J, Gao H, Xie W, et al. Robust clustering by detecting density peaks and assigning points based on fuzzy weighted K-nearest neighbors[J]. Information Sciences,
+[1] Xie J, Gao H, Xie W, et al. Robust clustering by detecting density peaks and assigning points based on fuzzy weighted K-nearest neighbors[J]. Information Sciences,2016, 354: 19-40.
 
-2016, 354: 19-40.
-
-[2] Xie J, Gao H, Xie W. K-nearest neighbors optimized clustering algorithm by fast search and finding the density peaks of a dataset[J].Scientia Sinica Informationis,
-
-2016, 46(2): 258-280.
+[2] Xie J, Gao H, Xie W. K-nearest neighbors optimized clustering algorithm by fast search and finding the density peaks of a dataset[J].Scientia Sinica Informationis,2016, 46(2): 258-280.
 
 ## Issues, Questions, etc
 
