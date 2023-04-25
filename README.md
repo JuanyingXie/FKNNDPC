@@ -26,11 +26,11 @@ adjusted mutual information (AMI) and adjusted rand index (ARI).They are saved i
 
 ## Cite
 
-If you have reproduced our algorithm in your paper, please cite the following paper:
+If you use our code for your study, please cite the following papers:
 
-[1] Xie J, Gao H, Xie W, et al. Robust clustering by detecting density peaks and assigning points based on fuzzy weighted K-nearest neighbors[J]. Information Sciences,2016, 354: 19-40.
+[1] Juanying Xie, Hongchao Gao, Weixin Xie, Xiaohui Liu, Philip W. Grant. Robust clustering by detecting density peaks and assigning points based on fuzzy weighted K-nearest neighbors. Information Sciences,2016, 354: 19-40.
 
-[2] Xie J, Gao H, Xie W. K-nearest neighbors optimized clustering algorithm by fast search and finding the density peaks of a dataset[J].Scientia Sinica Informationis,2016, 46(2): 258-280.
+[2] Juanying Xie, Hongchao Gao, Weixin Xie. K-nearest neighbors optimized clustering algorithm by fast search and finding the density peaks of a dataset.Scientia Sinica Informationis,2016, 46(2): 258-280.
 
 ## Issues, Questions, etc
 
